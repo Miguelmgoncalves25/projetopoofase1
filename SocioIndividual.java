@@ -11,9 +11,9 @@ public class SocioIndividual extends Socio {
     /**
      * Construtor de um socio individual
      *
-     * @param nome          Nome do socio
-     * @param nsocio        Numero unico do socio
-     * @param email         Endereco de email
+     * @param nome Nome do socio
+     * @param nsocio Numero unico do socio
+     * @param email Endereco de email
      * @param anoNascimento Ano de nascimento do socio
      */
     public SocioIndividual(String nome, int nsocio, String email, int anoNascimento) {
